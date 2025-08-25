@@ -75,5 +75,27 @@ Sistema de autenticação simples feito em Laravel, com cadastro, login, recuper
 - O sistema utiliza validação de dados do Laravel.
 - Bootstrap e Bootstrap Icons são usados para estilização.
 
+  ## IMAGENS!!!
+  <img width="1917" height="800" alt="image" src="https://github.com/user-attachments/assets/3943a250-53c3-426a-85fd-5b99dfbf0b0a" />
+
+<img width="954" height="800" alt="image" src="https://github.com/user-attachments/assets/48308b20-8c73-4c3d-8aae-580260a3e6ea" />
+  <img width="948" height="800" alt="image" src="https://github.com/user-attachments/assets/33f0826f-ccee-4d6f-a186-7091a6f947d6" />
+
+  <img width="944" height="800" alt="image" src="https://github.com/user-attachments/assets/8e442aeb-56d3-4ef5-aeec-8f46a4459659" />
+
+  <img width="947" height="800" alt="image" src="https://github.com/user-attachments/assets/1cb54972-ac60-4c74-bf7d-d13a48995054" />
+
+
+
+<img width="953" height="800" alt="image" src="https://github.com/user-attachments/assets/4a3fc0dd-f11c-4684-917f-97af70031af8" />
+
+
+
+
+
+
+
+
+
 
 
